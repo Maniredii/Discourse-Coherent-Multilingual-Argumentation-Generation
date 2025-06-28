@@ -48,9 +48,6 @@ Generate arguments in English
 Translate arguments to other languages
 
 🌐 Sample Output
-java
-Copy
-Edit
 Input Claim:
 "Social media reduces real-world social interaction."
 
