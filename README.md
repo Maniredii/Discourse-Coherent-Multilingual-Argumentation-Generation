@@ -21,7 +21,7 @@ This project implements a **Multilingual Argumentation Generator** that accepts 
 ## 📌 Features
 
 - **Discourse-Aware Argument Generation** with BART
-- **Multilingual Translation** (English ↔ Tamil/Telugu)
+- **Multilingual Translation** (English ↔ Tamil/Telugu) & some foreign lanuages
 - **Grammar Correction** using Gramformer
 - **Interactive Colab Interface**
 - Modular & extensible pipeline for future enhancements
